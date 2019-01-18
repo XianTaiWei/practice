@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  wechatdemo1
+
+  Created by hsbc on 1/18/19.
+  Copyright © 2019 ven. All rights reserved.
+*/
+"a" = "钱包";
+"b" = "收藏";
+"c" = "相册";
+"d" = "卡包";
+"e" = "表情";
+"f" = "设置";
